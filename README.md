@@ -180,38 +180,12 @@ Seamlessly navigate the project with these simple steps:
 
 ---
 
-## Feedback, Contributions, and Git Clone
 
-Your feedback is invaluable! If you have suggestions, or questions, or would like to contribute to the "University Success Analysis" project, feel free to:
 
-- **Open an Issue:**
-  - For bug reports or feature requests, [open an issue](https://github.com/virajbhutada/Global-Universities-Success-Analysis/issues).
-
-- **Submit a Pull Request:**
-  - Contribute enhancements or fixes by [submitting a pull request](https://github.com/virajbhutada/Global-Universities-Success-Analysis/pulls).
-
-- **Reach Out:**
-  - You can [reach out via email](virajnbhutada24@gmail.com).
-
-### Git Clone
-
-To clone the repository and access the project files locally, use the following command:
-
-```bash
-git clone https://github.com/virajbhutada/Global-Universities-Success-Analysis.git
-```
----
-
-## Project Involvement and Customization
-
-Your active engagement enhances the quality of this project, and your valuable insights are truly appreciated! Your contributions contribute to the excellence of the "University Success Analysis."
 
 ---
 
-## Connect With Me 🌐
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
 
 ---
 
-**Explore, Analyze, and Contribute! 🌐📊**
+
