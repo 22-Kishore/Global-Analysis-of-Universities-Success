@@ -28,8 +28,6 @@ This project holds significant implications for gaining insights into and enhanc
 
 ### Mutually Exclusive, Collectively Exhaustive (MECE) Approach
 
-![mece](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/0dea950f-d01b-4dc8-8714-4c542f43753e)
-
 *The MECE diagram outlines the structured approach applied in dissecting and evaluating the dataset. This method ensures that every component is distinct (Mutually Exclusive) while covering all possibilities (Collectively Exhaustive). It serves as the foundation for uncovering valuable insights and patterns across various dimensions, contributing to a comprehensive understanding of the data.*
 
 ## 2. EDA University Data Analysis (Excel)
@@ -48,13 +46,6 @@ This project holds significant implications for gaining insights into and enhanc
 
 *The Entity-Relationship (ER) Diagram illustrates interconnected data entities, providing a visual guide to relationships between countries, universities, ranking systems, criteria, and their dynamic interactions in global higher education.*
 
-## 4. Project Presentation (PowerPoint)
-
-- **File Name:** Project_Presentation.pptx
-- **Description:** Commence a visual journey! This PowerPoint presentation provides an overview of the project, methodologies, and a detailed breakdown of each problem statement addressed during the exploratory data analysis (EDA) and Power BI phases.
-- [Link to Access the PowerPoint Presentation and Video Walkthrough](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true)
-
-*Access the PowerPoint presentation for a comprehensive overview of the project, and watch the accompanying video walkthrough for detailed insights and methodologies*
 
 ## 5. Detailed Analysis Report (Word)
 
